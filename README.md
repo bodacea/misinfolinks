@@ -8,13 +8,37 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 <!-- MarkdownTOC depth=4 -->
 
+- [Lists](#lists)
+
 - [People](#people)
     - [Groups you could join](#groups)
     - [Organisations](#organisations)
     - [Notable people](#notablepeople)
-    - [Twitter follows](#twitterfollows)
+
+- [Tools](#tools)
+
+- [Data](#data)
 
 <!-- /MarkdownTOC -->
+
+# Lists
+
+* [news literacy project checklist](http://thenewsliteracyproject.org/fakenews)	
+* [misinfocon events calendar](https://hackshackers.github.io/misinfocon-event-calendar/)	
+* [A global guide to initiatives tackling fake news](https://gijn.org/2017/05/08/a-global-guide-to-initiatives-tackling-fake-news/)
+* [civic data initiatives](https://medium.com/graph-commons/civic-data-initiatives-c4a0f40d9a23)	
+* [FirstDraft misinformation reading list](https://firstdraftnews.com/misinformation-reading-list/)
+* [library resources](http://www.programminglibrarian.org/articles/fake-news-library-round)
+* [Sara's reading list](https://www.facebook.com/misinfolinks/)
+* [the lamp reading list](http://thelamp.org/fake-news-and-media-literacy-what-people-are-saying/)
+* [misinfocon lightning talks](http://nieman.harvard.edu/events/misinfocon-a-summit-and-creative-studio-on-misinformation/)
+
+## Hashtags
+* [#fakenewssci](https://twitter.com/hashtag/FakeNewsSci) Academics working on disinformation
+* [#fakenews](https://twitter.com/hashtag/FakeNews) Used generally, but occasionally see serious posts using it (e.g. EU)
+* [#misinformation](https://twitter.com/hashtag/misinformation)
+* [#disinformation](https://twitter.com/hashtag/disinformation)
+
 
 # People
 
@@ -70,3 +94,62 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Factual Democracy Project]()
 * [High level experts group on disinformation](https://ec.europa.eu/digital-single-market/en/news/final-report-high-level-expert-group-fake-news-and-online-disinformation)	
 * [DFRlab](https://www.digitalsherlocks.org/dfrlab)	Atlantic council group working on Disinformation (Kings College)	
+* [Commons Project](https://www.facebook.com/CommonsProject/) Team using bots and humans to repair divides created by misinformation
+
+## Notable people
+
+* [Jonathan Albright](https://twitter.com/d1gi)
+* [Ed Bice](https://twitter.com/edbice)
+* [Kalina Bontcheva](https://twitter.com/kbontcheva)
+* [David Carroll](https://twitter.com/profcarroll)
+* [Ben Nimmo](https://twitter.com/benimmo)
+* [Kate Starbird](https://twitter.com/katestarbird)
+* [Twitter list](https://twitter.com/bodaceacat/lists/misinformation-geeks/)
+
+
+# Tools
+
+* [Mapping The Globe](http://globe.mediameter.org) Maps geographcal attention of stories	(Boston Globe)
+* [MediaBreaker](http://thelamp.org/portfolio/media-breaker/) Media literacy materials	(The Lamp)
+* [AllSides](http://www.allsides.com) Shows left, centre and right views of news stories	(AllSides)
+* [Hypothesis](https://hypothes.is/) User markup for html pages	(Hypothesis)
+* [Annotation standard](https://www.w3.org/annotation/) Describes html annotation standards (e.g. for hypothesis)	(W3)
+* [botcheck.me]() Chrome extension, gives p(bot)	
+* [Block Together](https://blocktogether.org/) Blocks new and low-friend SM accounts	
+* [RedFeedBlueFeed]()			
+* [ClaimReview](https://schema.org/ClaimReview) Standards	(schema.org)
+* [ShareTheFacts](http://www.sharethefacts.org/) Widget	(DukeUni and Google)
+* [Google FactCheck](https://blog.google/products/search/)fact-check-now-available-google-search-and-news-around-world/) (Google)
+* [FactsMission](factsmission.com		
+* [TweeFi](https://twee.fi)	
+* [WikiCite](https://meta.wikimedia.org/wiki/WikiCite) (Wikimedia)
+* [Hamilton68](http://dashboard.securingdemocracy.org/) Monitors output from known trolls
+* [FactMata]()			
+* [TheCommonsProject]() Good bots, engaging with divided communities before handing off to humans	
+
+
+# Data
+
+## Adverts
+* [House intelligence facebook ads sample](https://democrats-intelligence.house.gov/hpsci-11-1/) creatives
+* [House Intelligence Committee Facebook ads](https://democrats-intelligence.house.gov/facebook-ads/social-media-advertisements.htm) creatives
+
+## Bots and trolls
+* [probabot](https://twitter.com/probabot_]) Rates accounts from bot to not
+* [Atomic Elbow list of trolls](https://twitter.com/AtomicElbow1/lists/confirmed-russian-trolls/members)	
+* [Atomic Elbow list of bots](https://twitter.com/AtomicElbow1/lists/bots/members)
+* [Jonathan Albricht's dataset of bot posts](https://data.world/d1gi/)	
+
+## Misinformation
+* [Pheme 8.2 annotated news corpus](https://www.pheme.eu/software-downloads/)
+* [false, misleading, clickbaity and satirical 'news' sources](https://d279m997dpfwgl.cloudfront.net/wp/2016/11/Resource-False-Misleading-Clickbait-y-and-Satirical-%E2%80%9CNews%E2%80%9D-Sources-1.pdf)Melissa list (2016)
+* [fake news challenge](http://www.fakenewschallenge.org/)	
+* [Ushadrons](https://medium.com/@ushadrons)
+
+
+# Literature
+
+* Check the accompanying spreadsheet for now.
+
+
+
