@@ -109,6 +109,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Tools
 
+* [FakerFact](https://www.fakerfact.org/) FakeNews AI for article evaluation [chrome extension](https://chrome.google.com/webstore/detail/fakerfact/hmcmekfmgfmilmmnicpmkfkccgnfegef)
 * [Mapping The Globe](http://globe.mediameter.org) Maps geographcal attention of stories	(Boston Globe)
 * [MediaBreaker](http://thelamp.org/portfolio/media-breaker/) Media literacy materials	(The Lamp)
 * [AllSides](http://www.allsides.com) Shows left, centre and right views of news stories	(AllSides)
