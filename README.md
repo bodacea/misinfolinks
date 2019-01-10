@@ -50,7 +50,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [W3C credible web community](https://www.w3.org/community/credibility/) Group working on indicators for online misinformation	
 * [MITI](https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/) Mozilla group
 * [IEEE P7011 working group on identifying and rating the trustworthiness of news sources](https://www.eventbrite.com/e/ieee-p7011-working-group-meeting-registration-43720079936)
-* [Stratcom](www.euvsdisinfo.eu)
 
 ## Organisations
 
