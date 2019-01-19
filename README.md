@@ -23,6 +23,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Lists
 
+* [CCC calendar and list of organisations](https://www.certifiedcontentcoalition.org/calendar-and-list)
 * [news literacy project checklist](http://thenewsliteracyproject.org/fakenews)	
 * [misinfocon events calendar](https://hackshackers.github.io/misinfocon-event-calendar/)	
 * [A global guide to initiatives tackling fake news](https://gijn.org/2017/05/08/a-global-guide-to-initiatives-tackling-fake-news/)
@@ -43,7 +44,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 # People
 
 ## Groups
-* [fakenewssci](https://twitter.com/hashtag/FakeNewsSci) Hashtag (#fakenewssci) for groups working on misinformation detection and handling	
+* [fakenewssci](https://twitter.com/hashtag/FakeNewsSci) Hashtag (#fakenewssci) and googlegroup for groups working on misinformation detection and handling	
 * [Misinfocon](https://misinfocon.com/) Collection of people (@misinfocon) working on misinformation, loosely based around the misinfocon seminars 	
 * [Credibility Coalition](https://meedan.com/credibility-coalition/) Group working on indicators for online misinformation. Used to be called CIWG; also created the W3 standard group
 * [Hacks/Hackers](https://hackshackers.com/) Data journalism meetup, part of credibility coalition		
@@ -56,6 +57,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### Conflict
 
 * [Stratcom EU vs disinfo group](https://euvsdisinfo.eu/)
+* [CEPA Stratcom program](http://infowar.cepa.org/index/)
+* [Weaponised Narrative Initiative (ASU/New America)](https://weaponizednarrative.asu.edu/)
 
 ### Fact-checkers
 
@@ -108,24 +111,39 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Tools
 
-* [FakerFact](https://www.fakerfact.org/) FakeNews AI for article evaluation [chrome extension](https://chrome.google.com/webstore/detail/fakerfact/hmcmekfmgfmilmmnicpmkfkccgnfegef)
-* [Mapping The Globe](http://globe.mediameter.org) Maps geographcal attention of stories	(Boston Globe)
-* [MediaBreaker](http://thelamp.org/portfolio/media-breaker/) Media literacy materials	(The Lamp)
+## bots and botnets
+
+* [botcheck.me](https://botcheck.me/) Chrome extension, gives p(bot)	
+
+## damage repair
+
+* [TheCommonsProject](https://medium.com/@howtobuildup/building-the-commons-dc60e6ee7b69) Good bots, engaging with divided communities before handing off to humans	
+
+## claim checks and viewpoints
+
 * [AllSides](http://www.allsides.com) Shows left, centre and right views of news stories	(AllSides)
+* [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)			
+
+## alerts
+* [KremlinWatch](https://www.kremlinwatch.eu/)
+* [Hamilton68](http://dashboard.securingdemocracy.org/) Monitors output from known trolls
+
+
+## unsorted
+
+* [FakerFact](https://www.fakerfact.org/) FakeNews AI for article evaluation [chrome extension](https://chrome.google.com/webstore/detail/fakerfact/hmcmekfmgfmilmmnicpmkfkccgnfegef)
+* [Mapping The Globe](http://globe.mediameter.org) Maps geographical attention of stories	(Boston Globe)
+* [MediaBreaker](http://thelamp.org/portfolio/media-breaker/) Media literacy materials	(The Lamp)
 * [Hypothesis](https://hypothes.is/) User markup for html pages	(Hypothesis)
 * [Annotation standard](https://www.w3.org/annotation/) Describes html annotation standards (e.g. for hypothesis)	(W3)
-* [botcheck.me]() Chrome extension, gives p(bot)	
 * [Block Together](https://blocktogether.org/) Blocks new and low-friend SM accounts	
-* [RedFeedBlueFeed]()			
-* [ClaimReview](https://schema.org/ClaimReview) Standards	(schema.org)
+* [ClaimReview](https://schema.org/ClaimReview) Standards (schema.org)
 * [ShareTheFacts](http://www.sharethefacts.org/) Widget	(DukeUni and Google)
-* [Google FactCheck](https://blog.google/products/search/)fact-check-now-available-google-search-and-news-around-world/) (Google)
-* [FactsMission](factsmission.com		
+* [Google FactCheck](https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/) (Google)
+* [FactsMission](factsmission.com)		
 * [TweeFi](https://twee.fi)	
 * [WikiCite](https://meta.wikimedia.org/wiki/WikiCite) (Wikimedia)
-* [Hamilton68](http://dashboard.securingdemocracy.org/) Monitors output from known trolls
-* [FactMata]()			
-* [TheCommonsProject]() Good bots, engaging with divided communities before handing off to humans	
+* [FactMata](https://factmata.com/)			
 
 
 # Data
@@ -139,6 +157,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Atomic Elbow list of trolls](https://twitter.com/AtomicElbow1/lists/confirmed-russian-trolls/members)	
 * [Atomic Elbow list of bots](https://twitter.com/AtomicElbow1/lists/bots/members)
 * [Jonathan Albricht's dataset of bot posts](https://data.world/d1gi/)	
+* [538 list of IRA tweets 2012-2018](https://github.com/fivethirtyeight/russian-troll-tweets/)
 
 ## Misinformation
 * [Pheme 8.2 annotated news corpus](https://www.pheme.eu/software-downloads/)
