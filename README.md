@@ -164,6 +164,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [false, misleading, clickbaity and satirical 'news' sources](https://d279m997dpfwgl.cloudfront.net/wp/2016/11/Resource-False-Misleading-Clickbait-y-and-Satirical-%E2%80%9CNews%E2%80%9D-Sources-1.pdf)Melissa list (2016)
 * [fake news challenge](http://www.fakenewschallenge.org/)	
 * [Ushadrons](https://medium.com/@ushadrons)
+* [Twitter's state-backed infoops archives](https://about.twitter.com/en_us/values/elections-integrity.html#data)
 
 
 # Literature
