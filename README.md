@@ -148,14 +148,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Data
 
-## Adverts
-* [House intelligence facebook ads sample](https://democrats-intelligence.house.gov/hpsci-11-1/) creatives
-* [House Intelligence Committee Facebook ads](https://democrats-intelligence.house.gov/facebook-ads/social-media-advertisements.htm) creatives
-
 ## Bots and trolls
+* [botsentinel](https://botsentinel.com/)
 * [probabot](https://twitter.com/probabot_]) Rates accounts from bot to not
-* [Atomic Elbow list of trolls](https://twitter.com/AtomicElbow1/lists/confirmed-russian-trolls/members)	
-* [Atomic Elbow list of bots](https://twitter.com/AtomicElbow1/lists/bots/members)
 * [Jonathan Albricht's dataset of bot posts](https://data.world/d1gi/)	
 * [538 list of IRA tweets 2012-2018](https://github.com/fivethirtyeight/russian-troll-tweets/)
 
@@ -165,6 +160,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [fake news challenge](http://www.fakenewschallenge.org/)	
 * [Ushadrons](https://medium.com/@ushadrons)
 * [Twitter's state-backed infoops archives](https://about.twitter.com/en_us/values/elections-integrity.html#data)
+* [Grafika Information Operations Archive - 2018 Twitter and Reddit IRA datasets](https://www.io-archive.org/#/)
+
+## Adverts
+* [House intelligence facebook ads sample](https://democrats-intelligence.house.gov/hpsci-11-1/) creatives
+* [House Intelligence Committee Facebook ads](https://democrats-intelligence.house.gov/facebook-ads/social-media-advertisements.htm) creatives
 
 
 # Literature
