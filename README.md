@@ -24,10 +24,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 # Lists
 
 * [CCC calendar and list of organisations](https://www.certifiedcontentcoalition.org/calendar-and-list)
-* [news literacy project checklist](http://thenewsliteracyproject.org/fakenews)	
-* [misinfocon events calendar](https://hackshackers.github.io/misinfocon-event-calendar/)	
+* [news literacy project checklist](http://thenewsliteracyproject.org/fakenews)
+* [misinfocon events calendar](https://hackshackers.github.io/misinfocon-event-calendar/)
 * [A global guide to initiatives tackling fake news](https://gijn.org/2017/05/08/a-global-guide-to-initiatives-tackling-fake-news/)
-* [civic data initiatives](https://medium.com/graph-commons/civic-data-initiatives-c4a0f40d9a23)	
+* [civic data initiatives](https://medium.com/graph-commons/civic-data-initiatives-c4a0f40d9a23)
 * [FirstDraft misinformation reading list](https://firstdraftnews.com/misinformation-reading-list/)
 * [library resources](http://www.programminglibrarian.org/articles/fake-news-library-round)
 * [Sara's reading list](https://www.facebook.com/misinfolinks/)
@@ -44,11 +44,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 # People
 
 ## Groups
-* [fakenewssci](https://twitter.com/hashtag/FakeNewsSci) Hashtag (#fakenewssci) and googlegroup for groups working on misinformation detection and handling	
-* [Misinfocon](https://misinfocon.com/) Collection of people (@misinfocon) working on misinformation, loosely based around the misinfocon seminars 	
+* [fakenewssci](https://twitter.com/hashtag/FakeNewsSci) Hashtag (#fakenewssci) and googlegroup for groups working on misinformation detection and handling
+* [Misinfocon](https://misinfocon.com/) Collection of people (@misinfocon) working on misinformation, loosely based around the misinfocon seminars
 * [Credibility Coalition](https://meedan.com/credibility-coalition/) Group working on indicators for online misinformation. Used to be called CIWG; also created the W3 standard group
-* [Hacks/Hackers](https://hackshackers.com/) Data journalism meetup, part of credibility coalition		
-* [W3C credible web community](https://www.w3.org/community/credibility/) Group working on indicators for online misinformation	
+* [Hacks/Hackers](https://hackshackers.com/) Data journalism meetup, part of credibility coalition
+* [W3C credible web community](https://www.w3.org/community/credibility/) Group working on indicators for online misinformation
 * [MITI](https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/) Mozilla group
 * [IEEE P7011 working group on identifying and rating the trustworthiness of news sources](https://www.eventbrite.com/e/ieee-p7011-working-group-meeting-registration-43720079936)
 
@@ -84,18 +84,18 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### Others
 
-* [Pheme Project](https://www.pheme.eu/software-downloads/)	2013-2016? EU project on misinformation tools	
-* [News Literacy project](http://thenewsliteracyproject.org/)		
-* [First Draft News](https://firstdraftnews.com/)	
-* [Meedan](https://meedan.com/)	
-* [Wikimedia](https://www.wikimedia.org/)		
-* [Google Fact Check](https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/)	
+* [Pheme Project](https://www.pheme.eu/software-downloads/)	2013-2016? EU project on misinformation tools
+* [News Literacy project](http://thenewsliteracyproject.org/)
+* [First Draft News](https://firstdraftnews.com/)
+* [Meedan](https://meedan.com/)
+* [Wikimedia](https://www.wikimedia.org/)
+* [Google Fact Check](https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/)
 * [Facebook]()
-* [Mozilla Foundation]()		
-* [Indonesian Cyber Media Association]()			
+* [Mozilla Foundation]()
+* [Indonesian Cyber Media Association]()
 * [Factual Democracy Project]()
-* [High level experts group on disinformation](https://ec.europa.eu/digital-single-market/en/news/final-report-high-level-expert-group-fake-news-and-online-disinformation)	
-* [DFRlab](https://www.digitalsherlocks.org/dfrlab)	Atlantic council group working on Disinformation (Kings College)	
+* [High level experts group on disinformation](https://ec.europa.eu/digital-single-market/en/news/final-report-high-level-expert-group-fake-news-and-online-disinformation)
+* [DFRlab](https://www.digitalsherlocks.org/dfrlab)	Atlantic council group working on Disinformation (Kings College)
 * [Commons Project](https://www.facebook.com/CommonsProject/) Team using bots and humans to repair divides created by misinformation
 
 ## Notable people
@@ -113,16 +113,16 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## bots and botnets
 
-* [botcheck.me](https://botcheck.me/) Chrome extension, gives p(bot)	
+* [botcheck.me](https://botcheck.me/) Chrome extension, gives p(bot)
 
 ## damage repair
 
-* [TheCommonsProject](https://medium.com/@howtobuildup/building-the-commons-dc60e6ee7b69) Good bots, engaging with divided communities before handing off to humans	
+* [TheCommonsProject](https://medium.com/@howtobuildup/building-the-commons-dc60e6ee7b69) Good bots, engaging with divided communities before handing off to humans
 
 ## claim checks and viewpoints
 
 * [AllSides](http://www.allsides.com) Shows left, centre and right views of news stories	(AllSides)
-* [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)			
+* [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)
 
 ## alerts
 * [KremlinWatch](https://www.kremlinwatch.eu/)
@@ -136,14 +136,14 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [MediaBreaker](http://thelamp.org/portfolio/media-breaker/) Media literacy materials	(The Lamp)
 * [Hypothesis](https://hypothes.is/) User markup for html pages	(Hypothesis)
 * [Annotation standard](https://www.w3.org/annotation/) Describes html annotation standards (e.g. for hypothesis)	(W3)
-* [Block Together](https://blocktogether.org/) Blocks new and low-friend SM accounts	
+* [Block Together](https://blocktogether.org/) Blocks new and low-friend SM accounts
 * [ClaimReview](https://schema.org/ClaimReview) Standards (schema.org)
 * [ShareTheFacts](http://www.sharethefacts.org/) Widget	(DukeUni and Google)
 * [Google FactCheck](https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/) (Google)
-* [FactsMission](factsmission.com)		
-* [TweeFi](https://twee.fi)	
+* [FactsMission](factsmission.com)
+* [TweeFi](https://twee.fi)
 * [WikiCite](https://meta.wikimedia.org/wiki/WikiCite) (Wikimedia)
-* [FactMata](https://factmata.com/)			
+* [FactMata](https://factmata.com/)
 
 
 # Data
@@ -151,13 +151,14 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Bots and trolls
 * [botsentinel](https://botsentinel.com/)
 * [probabot](https://twitter.com/probabot_]) Rates accounts from bot to not
-* [Jonathan Albricht's dataset of bot posts](https://data.world/d1gi/)	
+* [Jonathan Albricht's dataset of bot posts](https://data.world/d1gi/)
 * [538 list of IRA tweets 2012-2018](https://github.com/fivethirtyeight/russian-troll-tweets/)
 
 ## Misinformation
+* [MuMiN - multilingual multimodal fact-checked misinformation social network dataset](https://mumin-dataset.github.io/)
 * [Pheme 8.2 annotated news corpus](https://www.pheme.eu/software-downloads/)
 * [false, misleading, clickbaity and satirical 'news' sources](https://d279m997dpfwgl.cloudfront.net/wp/2016/11/Resource-False-Misleading-Clickbait-y-and-Satirical-%E2%80%9CNews%E2%80%9D-Sources-1.pdf)Melissa list (2016)
-* [fake news challenge](http://www.fakenewschallenge.org/)	
+* [fake news challenge](http://www.fakenewschallenge.org/)
 * [Ushadrons](https://medium.com/@ushadrons)
 * [Twitter's state-backed infoops archives](https://about.twitter.com/en_us/values/elections-integrity.html#data)
 * [Grafika Information Operations Archive - 2018 Twitter and Reddit IRA datasets](https://www.io-archive.org/#/)
