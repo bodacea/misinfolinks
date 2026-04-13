@@ -123,6 +123,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [AllSides](http://www.allsides.com) Shows left, centre and right views of news stories	(AllSides)
 * [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)			
+* [Helium](https://heliumtrades.com/mcp-page/) AI-powered media bias analysis across 5,000+ sources and 15+ dimensions (political lean, emotionality, manipulativeness, factfulness). Analyze any article URL or compare source biases.
 
 ## alerts
 * [KremlinWatch](https://www.kremlinwatch.eu/)
