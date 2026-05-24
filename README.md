@@ -132,6 +132,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## unsorted
 
 * [FakerFact](https://www.fakerfact.org/) FakeNews AI for article evaluation [chrome extension](https://chrome.google.com/webstore/detail/fakerfact/hmcmekfmgfmilmmnicpmkfkccgnfegef)
+* [The AI Slop Intelligence Dashboard Problem](https://labs.jamessawyer.co.uk/ai-slop-intelligence-dashboards/) Evidence-led analysis of cloned AI "intelligence" dashboards, fabricated evidence claims and unsafe control surfaces
 * [Mapping The Globe](http://globe.mediameter.org) Maps geographical attention of stories	(Boston Globe)
 * [MediaBreaker](http://thelamp.org/portfolio/media-breaker/) Media literacy materials	(The Lamp)
 * [Hypothesis](https://hypothes.is/) User markup for html pages	(Hypothesis)
@@ -170,6 +171,5 @@ If you want to contribute to this list (please do), send me a pull request or co
 # Literature
 
 * Check the accompanying spreadsheet for now.
-
 
 
