@@ -123,6 +123,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [AllSides](http://www.allsides.com) Shows left, centre and right views of news stories	(AllSides)
 * [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)			
+* [Sealed Rose](https://sealedrose.com/verify-video) AI media forensics and synthetic content verification for video, audio, image, and text
 
 ## alerts
 * [KremlinWatch](https://www.kremlinwatch.eu/)
