@@ -110,6 +110,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 
 # Tools
+* [FactCrumbs](https://factcrumbs.com/) - short, sourced explainers of everyday science and trivia claims
 
 ## bots and botnets
 
